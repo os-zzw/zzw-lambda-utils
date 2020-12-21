@@ -1,4 +1,4 @@
-package zzw.tuple;
+package com.github.zzw.tuple;
 
 import java.util.Objects;
 

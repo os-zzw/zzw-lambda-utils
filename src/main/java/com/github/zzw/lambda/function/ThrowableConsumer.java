@@ -1,4 +1,4 @@
-package zzw.function;
+package com.github.zzw.lambda.function;
 
 /**
  * @author zhangzhewei
